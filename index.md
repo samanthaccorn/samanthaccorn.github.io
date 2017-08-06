@@ -1,5 +1,5 @@
 # About Me
-My name is Samantha Corn. I am studying Applied Mathematics at Saint Mary's College and Computer Science at the University of Notre Dame. 
+My name is Samantha Corn. I am studying Applied Mathematics at Saint Mary's College (2018) and Computer Science at the University of Notre Dame (2019). I spent the last two summers interning with Zebra Technologies
 
 ## Programming Languages
 * Python
@@ -15,4 +15,7 @@ My name is Samantha Corn. I am studying Applied Mathematics at Saint Mary's Coll
 * LabVIEW
 * Salesforce
 
-
+# Contact Me
+* [LinkedIn](https://www.linkedin.com/in/samantha-c-corn)
+* [samanthaccorn@gmail.com](samanthaccorn@gmail.com)
+* [GitHub](https://github.com/samanthaccorn)
